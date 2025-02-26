@@ -4,7 +4,7 @@ public class Main {
    int a=10;
    String b="jnkmknj";
    int o=5;
-        mlmlmgmlgm
+        
 
 
 
